@@ -25,3 +25,7 @@ document.writeln("<p class=\"rc_av_sub\">凰かなめの極上筆おろし 10</p
 document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8lulu.com/v/gOqBLANgzMc263AE?src=xiaoxihuan\" target=\"_blank\">");
 document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/Zgr4xJW.jpg\">");
 document.writeln("<p class=\"rc_av_sub\">紗倉まな　焦らして高まる、媚薬ＳＥＸ</p></a>");
+
+document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8lulu.com/v/Li8QIbGMjsyY8zLk?src=xiaoxihuan\" target=\"_blank\">");
+document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/hl29Hoc.jpg\">");
+document.writeln("<p class=\"rc_av_sub\">紗倉まな 媚薬催眠トランス大絶頂セックス レンタル版</p></a>");
