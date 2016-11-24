@@ -32,4 +32,4 @@ document.writeln("<p class=\"rc_av_sub\">紗倉まな 媚薬催眠トランス�
 
 document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8lulu.com/v/q0XtNR45iwuLwDGw?src=xiaoxihuan\" target=\"_blank\">");
 document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/JeG4TlO.jpg\">");
-document.writeln("<p class=\"rc_av_sub\">愛犬が美少女に大変身！ 擬人化ペット天使もえの異常な恩返し交尾...</p></a>");
+document.writeln("<p class=\"rc_av_sub\">愛犬が美少女に大変身！ 擬人化ペット天使もえ...</p></a>");
