@@ -29,3 +29,7 @@ document.writeln("<p class=\"rc_av_sub\">紗倉まな　焦らして高まる、
 document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8lulu.com/v/Li8QIbGMjsyY8zLk?src=xiaoxihuan\" target=\"_blank\">");
 document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/hl29Hoc.jpg\">");
 document.writeln("<p class=\"rc_av_sub\">紗倉まな 媚薬催眠トランス大絶頂セックス レンタル版</p></a>");
+
+document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8lulu.com/v/q0XtNR45iwuLwDGw?src=xiaoxihuan\" target=\"_blank\">");
+document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/JeG4TlO.jpg\">");
+document.writeln("<p class=\"rc_av_sub\">愛犬が美少女に大変身！ 擬人化ペット天使もえの異常な恩返し交尾...</p></a>");
