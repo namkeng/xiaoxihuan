@@ -24,6 +24,7 @@ a{
 }
 
 .rc_av_link{
+  height:200px;
   float: left;
   margin-right: 2%;
 }
