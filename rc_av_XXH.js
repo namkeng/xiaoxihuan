@@ -22,3 +22,6 @@ document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8porn.com/v/3U42VAz
 document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/q0a7ZLp.jpg\">");
 document.writeln("<p class=\"rc_av_sub\">凰かなめの極上筆おろし 10</p></a>");
 
+document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8porn.com/v/gOqBLANgzMc263AE?src=xiaoxihuan\" target=\"_blank\">");
+document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/Zgr4xJW.jpg\">");
+document.writeln("<p class=\"rc_av_sub\">紗倉まな　焦らして高まる、媚薬ＳＥＸ</p></a>");
