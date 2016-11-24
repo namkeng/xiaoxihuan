@@ -16,7 +16,7 @@ document.writeln("<p class=\"rc_av_sub\">露出したキャバ嬢の胸が刺激
 
 document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8porn.com/v/tH4pVczw0RIIasiH?src=xiaoxihuan\" target=\"_blank\">");
 document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/ttqAyNu.jpg\">");
-document.writeln("<p class=\"rc_av_sub\">1ヵ月間セックスもオナニーも禁止されムラムラ全開でアドレ...</p></a>");
+document.writeln("<p class=\"rc_av_sub\">RION1ヵ月間セックスもオナニーも禁止されムラムラ全開...</p></a>");
 
 document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8porn.com/v/3U42VAzwExzO4wAo?src=xiaoxihuan\" target=\"_blank\">");
 document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/q0a7ZLp.jpg\">");
