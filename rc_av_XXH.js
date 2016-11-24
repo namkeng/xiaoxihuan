@@ -13,3 +13,7 @@ document.writeln("<p class=\"rc_av_sub\">天使もえ下着モデルをさせら
 document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8porn.com/v/r2X8zLitapofCs4C?src=xiaoxihuan\" target=\"_blank\">");
 document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/eN4Ew3M.jpg\">");
 document.writeln("<p class=\"rc_av_sub\">露出したキャバ嬢の胸が刺激的で見とれていると彼女が気づき…</p></a>");
+
+document.writeln("<a class=\"rc_av_link\" href=\"http://www.d8porn.com/v/tH4pVczw0RIIasiH?src=xiaoxihuan\" target=\"_blank\">");
+document.writeln("<img width=\"200px\" src=\"http://i.imgur.com/ttqAyNu.jpg\">");
+document.writeln("<p class=\"rc_av_sub\">1ヵ月間セックスもオナニーも禁止されムラムラ全開でアドレ...</p></a>");
