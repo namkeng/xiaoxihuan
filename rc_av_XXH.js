@@ -34,7 +34,7 @@ function randomsort(a, b) {
 vd_data.sort(randomsort);
 
 for(i=0;i<100;i++){
-  document.writeln("<a class=\"rc_av_link\" href=\"+"vd_data[i][0]+"\" target=\"_blank\">");
+  document.writeln("<a class=\"rc_av_link\" href=\""+vd_data[i][0]+"\" target=\"_blank\">");
   document.writeln("<img width=\"200px\" src=\""+vd_data[i][1]+"\">");
   document.writeln("<p class=\"rc_av_sub\">"+vd_data[i][2]+"</p></a>");
 }
