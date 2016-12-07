@@ -22,8 +22,10 @@ a{
   float:left;
   font-size:1em;
   font-family:'微软雅黑';
+  letter-spacing:2px;
+  font-weight:300;
   color:#fff;
-  margin:0 0 0 30px;
+  margin:5px 0 0 30px;
 
 }
 .rc_av_XXH{
