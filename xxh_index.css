@@ -10,6 +10,7 @@ a{
 }
 
 .logo_txt{
+    float:left;
     color:#fff;
     font-size:1.5em;
     font-family:'微软雅黑';
@@ -18,10 +19,11 @@ a{
 }
 
 .nav_email{
-  float:right;
+  float:left;
   font-size:1em;
+  font-family:'微软雅黑';
   color:#fff;
-  margin:0;
+  margin:0 0 0 30px;
 
 }
 .rc_av_XXH{
