@@ -16,6 +16,14 @@ a{
     letter-spacing:2px;
     margin:0;
 }
+
+.nav_email{
+  float:right;
+  font-size:1em;
+  color:#fff;
+  margin:0;
+
+}
 .rc_av_XXH{
   padding: 30px;
   background: #e6e6e6;
